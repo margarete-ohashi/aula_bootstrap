@@ -1,16 +1,16 @@
 .body {
-    font: 20px arial, sans-serif;
+    font-size: 20px arial, sans-serif;
+    color: #fff
 }
 
 
 .navbar {
-    background-color: rgb(70, 129, 83);
+    background-color: #81f7d8;
 }
 
 .quem-somos {
-    background-color: rgb(92, 110, 192);
+    background-color: #acaceb;
     color: white;
-
 }
 
 .margin {
@@ -19,5 +19,16 @@
 }
 
 .parceiros {
-    background-color: rgb(106, 210, 218);
+    background-color: #58faf4;
+}
+
+.servicos {
+    background-color: #b4cace;
+}
+
+
+.bg-footer {
+    background-color: black;
+    color: blanchedalmond;
+
 }
